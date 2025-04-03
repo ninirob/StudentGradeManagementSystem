@@ -1,4 +1,4 @@
-# N Roberts
+N Roberts
 # Student Grade Management System
 
 ## Description
@@ -62,8 +62,6 @@ cmake-build-debug/
    
 ## Example Usage
 
-Here’s an example of how the program runs:
-
 - Adding a Student
 
 Input:
@@ -76,10 +74,10 @@ Student record added successfully!
 
 - Searching for a Student
 
-Input: Enter student ID to search: 001
+`Input: Enter student ID to search: 001`
 
-Output: 
+`Output: 
 Student Found:
 ID: 001
 Name: Alice Johnson
-GPA: 3.9
+GPA: 3.9`
