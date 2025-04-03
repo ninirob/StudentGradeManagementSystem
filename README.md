@@ -1,4 +1,4 @@
-- NilRob
+# N Roberts
 # Student Grade Management System
 
 ## Description
